@@ -3,7 +3,7 @@ This is for Babson College OIM7502's midterm project in Spring 2024.
 
 I will introduce the Python Polars package in this repository with the following materials:
 1. slide deck
-2. tutorial
+2. tutorial("Demonstration" file)
 3. code examples
 ## Polars Overview
 Polars is a DataFrame library to manipulate structured data. It is available for Python, R and NodeJS. 
